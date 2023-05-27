@@ -1,0 +1,62 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Modify Email Texts For WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-27 11:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: bt-mwet"
+
+#: Includes/WooEmailTexts.class.php:187
+#, php-format
+msgid ""
+"Below you'll find all the hardcoded texts you can modify for this email. The "
+"total texts you can modify are %d"
+msgstr ""
+
+#. Author of the plugin
+msgid "buttered_toast"
+msgstr ""
+
+#: Includes/WooEmailTexts.class.php:211
+#, php-format
+msgid "Initial value: %s"
+msgstr ""
+
+#. Name of the plugin
+msgid "Modify Email Texts For WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Modify Email Texts For WooCommerce that aren't available as part of the "
+"email template settings"
+msgstr ""
+
+#: WooModifyEmailTexts.php:48
+msgid "Please make sure you have it installed and activated."
+msgstr ""
+
+#: Includes/WooEmailTexts.class.php:186
+msgid "Template hardcoded texts"
+msgstr ""
+
+#: Includes/WooEmailTexts.class.php:210
+#, php-format
+msgid "Template text (%d)"
+msgstr ""
+
+#: WooModifyEmailTexts.php:47
+msgid ""
+"The plugin \"Modify Email Texts For WooCommerce\" cannot work without "
+"WooCommerce."
+msgstr ""
